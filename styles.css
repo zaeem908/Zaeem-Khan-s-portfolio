@@ -1,0 +1,133 @@
+.top-container {
+   background-color:  #e4f9f5;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-size: 600%;
+    font-family: 'Sacramento', cursive;
+    margin-top: 50px;
+    color: #66bfbf;
+}
+
+p {
+    line-height: 2;
+   
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.top-cloud {
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+h3 {
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #11999e;
+}
+
+.skill-picture1 {
+    border-radius: 100px;
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 20px;
+}
+
+.skill-picture2 {
+    border-radius: 100px;
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 20px;
+}
+
+.profile-picture {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66bfbf;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  
+}
+
+.middle-container {
+    margin: 100px auto;
+}
+
+.btn {
+    background: #b5e1ff;
+    background-image: -webkit-linear-gradient(top, #b5e1ff, #003f66);
+    background-image: -moz-linear-gradient(top, #b5e1ff, #003f66);
+    background-image: -ms-linear-gradient(top, #b5e1ff, #003f66);
+    background-image: -o-linear-gradient(top, #b5e1ff, #003f66);
+    background-image: linear-gradient(to bottom, #b5e1ff, #003f66);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 26px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #02c265;
+    background-image: -webkit-linear-gradient(top, #02c265, #00570a);
+    background-image: -moz-linear-gradient(top, #02c265, #00570a);
+    background-image: -ms-linear-gradient(top, #02c265, #00570a);
+    background-image: -o-linear-gradient(top, #02c265, #00570a);
+    background-image: linear-gradient(to bottom, #02c265, #00570a);
+    text-decoration: none;
+  }
+
+  .intro {
+    width: 30%;
+    margin: auto;
+  }
+
+  .greeting {
+    margin: 100px auto;
+  }
+
+  .bottom-container {
+    background-color: skyblue;
+  }
+
+  hr {
+    border: dotted;
+    color: aqua;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+  }
+
+  .footer-link {
+    width: 3%;
+    height: 3%;
+    margin: 50px auto;
+    background-color: skyblue;
+  }
+
+  .copyright {
+    font-size: 0.7rem;
+  }
